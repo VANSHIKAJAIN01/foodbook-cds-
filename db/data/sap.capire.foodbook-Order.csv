@@ -1,0 +1,4 @@
+ID,building,foodCourt,foodName,status_code,createdAt,createdBy,modifiedAt,modifiedBy
+94674773-707f-474a-a0e6-d3afb157b312,building-9467477,foodCourt-9467477,foodName-9467477,S,2004-04-11T18:30:00.000Z,createdBy.5mx5h@example.com,2015-09-21T18:30:00.000Z,modifiedBy.5mx5h@example.com
+9467478e-9bad-4403-890e-c2fbe9b1fd10,building-9467478,foodCourt-9467478,foodName-9467478,F,2022-02-21T18:30:00.000Z,createdBy.5mx5i@example.org,2021-11-02T18:30:00.000Z,modifiedBy.5mx5i@example.com
+94674797-7267-4e15-beb1-9734f138b2bd,building-9467479,foodCourt-9467479,foodName-9467479,I,2021-10-18T18:30:00.000Z,createdBy.5mx5j@example.com,2018-08-11T18:30:00.000Z,modifiedBy.5mx5j@example.org

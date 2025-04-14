@@ -1,0 +1,8 @@
+ID,parent_ID,name,startTime,closingTime,isOpen,createdAt,createdBy,modifiedAt,modifiedBy
+27620751-820c-41bc-8310-7f9fe9da62f3,27961870-1cf6-47cb-9812-117a1a994afe,Pan Pacific,11:30:00,14:30:00,false,2018-11-20T18:30:00.000Z,createdBy.gg0b3@example.org,2005-08-07T18:30:00.000Z,modifiedBy.gg0b3@example.net
+27620752-c44b-407d-9615-929a039c88ec,27961870-1cf6-47cb-9812-117a1a994afe,Global,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org
+3fdf85f8-31e7-4dff-8e29-ab04f6465dd1,27961870-1cf6-47cb-9812-117a1a994afe,Indian Combo,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org
+b5b0e1cc-c649-472c-8ca6-dec1bf283131,27961870-1cf6-47cb-9812-117a1a994afe,Choix,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org
+c5467055-617c-4ba2-9f42-279a313395df,27961869-71a7-4a15-8371-7c5fcdfbcdfb,Dakshin Cafe,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org
+2312af14-7b65-4d27-a16a-63e9f27b19b0,27961868-8b64-460d-bac4-ca0bbaec6db1,Grab & Go,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org
+cb7478d1-3ac7-4c1b-8752-8d35da851f29,27961868-8b64-460d-bac4-ca0bbaec6db1,Flavours,11:30:00,14:30:00,true,2009-06-21T18:30:00.000Z,createdBy.gg0b4@example.org,2022-02-19T18:30:00.000Z,modifiedBy.gg0b4@example.org

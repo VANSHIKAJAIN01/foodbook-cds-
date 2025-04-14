@@ -1,0 +1,12 @@
+{
+    "sql": {
+        "native_hana_associations": false
+    },
+    "profiles": [
+        "with-mtx-sidecar",
+        "java"
+    ],
+    "requires": {
+        "multitenancy": true
+    }
+}

@@ -1,0 +1,4 @@
+code,criticality,name,descr
+S,91,served,served
+F,30,failed,failed
+I,86,inqueue,inqueue
